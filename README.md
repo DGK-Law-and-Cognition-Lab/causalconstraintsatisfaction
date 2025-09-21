@@ -11,7 +11,12 @@ This research integrates Simon and Holyoak's constraint satisfaction paradigm wi
 
 ## Repository Structure
 
+```
 /experiments          # Experimental materials and protocols
-/models               # Computational implementations
+/models               # Computational implementations in python and Rmd
 /data                 # Experimental datasets
-/analysis             # Statistical analysis scripts
+/analysis             # Statistical analysis scripts in Rmd
+```
+## CRediT author statement
+
+[What is a CRediT author statement?](https://www.elsevier.com/researcher/author/policies-and-guidelines/credit-author-statement)
